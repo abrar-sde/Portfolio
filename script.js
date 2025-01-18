@@ -41,7 +41,7 @@ cehImage.addEventListener('click', function(){
 
 const securityImage =  document.getElementById('securityImage');
 securityImage.addEventListener('click', function(){
-    window.open("https://www.udemy.com/certificate/UC-ef7f1175-d94c-497a-bf8c-6f875d86922e/", "_blank");
+    window.open("https://www.udemy.com/certificate/UC-71764f3d-ed14-4a6d-981f-c42bb94863ea/", "_blank");
 });
 
 
