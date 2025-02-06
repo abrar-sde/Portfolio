@@ -396,39 +396,39 @@ span {
 }
 
 .skill-logo:hover:nth-child(1) {
-    transform: scale(1.2)translate(-38%, 31%);
+    transform: scale(1.2) translate(-38%, 31%);
     cursor: pointer;
 }
 .skill-logo:hover:nth-child(2) {
-    transform: scale(1.2)translate(100%, -80%);
+    transform: scale(1.2) translate(100%, -80%);
     cursor: pointer;
 }
 .skill-logo:hover:nth-child(3) {
-    transform: scale(1.2)translate(140%, 50%);
+    transform: scale(1.2) translate(140%, 50%);
     cursor: pointer;
 }
 .skill-logo:hover:nth-child(4) {
-    transform: scale(1.2)translate(100%, 180%);
+    transform: scale(1.2 )translate(100%, 180%);
     cursor: pointer;
 }
 .skill-logo:hover:nth-child(5) {
-    transform: scale(1.2)translate(-50%, 220%);
+    transform: scale(1.2) translate(-50%, 220%);
     cursor: pointer;
 }
 .skill-logo:hover:nth-child(6) {
-    transform: scale(1.2)translate(-180%, 180%);
+    transform: scale(1.2) translate(-180%, 180%);
     cursor: pointer;
 }
 .skill-logo:hover:nth-child(7) {
-    transform: scale(1.2)translate(-230%, 50%);
+    transform: scale(1.2) translate(-230%, 50%);
     cursor: pointer;
 }
 .skill-logo:hover:nth-child(8) {
-    transform: scale(1.2)translate(-200%, -75%);
+    transform: scale(1.2) translate(-200%, -75%);
     cursor: pointer;
 }
 .skill-logo:hover:nth-child(9) {
-    transform: scale(1.2)translate(-50%, -160%);
+    transform: scale(1.2) translate(-50%, -160%);
     cursor: pointer;
 }
 
