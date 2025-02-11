@@ -74,21 +74,7 @@ window.onscroll = () => {
         }
     });
 
-    const footer = document.querySelector('footer'); // Select the footer
-if (footer) {
-    let footerOffset = footer.offsetTop - 150;
-    let footerHeight = footer.offsetHeight;
 
-    if (window.scrollY >= footerOffset && window.scrollY < footerOffset + footerHeight) {
-        navlinks.forEach(link => {
-            link.classList.remove('active');
-        });
-        document.querySelector('header nav a[href*="footer"]').classList.add('active');
-    }
-}
 };
 
-menuIcon.onclick = () => {
-    menuIcon.classList.toggle('bx-x');
-    navbar.classList.toggle('active');
-};
+
